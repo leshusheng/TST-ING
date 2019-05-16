@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+a{ /*默认状态*/
+    color: #000;
+}
+a:hover{ /*鼠标悬浮状态*/
+    color: #000;
+}
+a:active{ /*鼠标点击状态*/
+
+}
+a:link{  /*鼠访问后状态*/
+    color: #666666;
+}
+.clearfix:after {
+    content: "."; /* Older browser do not support empty content */
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+.clearfix {zoom: 1;} /* 针对 IE 不支持 :after */

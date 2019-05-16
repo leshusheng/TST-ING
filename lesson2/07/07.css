@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    margin: 10px auto;
+}
+.li_menu{
+    width: 70px;
+    font-size: 12px;
+    /*line-height: 18px;*/
+    border: 1px solid rgb(154, 153, 255);
+    margin-top: 5px;
+    color:#00c;
+    display: none;
+}
+.li_menu li{
+    padding: 4px;
+}
+.li_menu li:last-child{
+    border-top:1px solid rgb(154, 153, 255);
+}
+.li_menu li:hover{
+    background: #d9e1f6;
+    cursor: pointer;
+}

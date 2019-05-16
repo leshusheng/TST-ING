@@ -1,0 +1,23 @@
+.box{
+    width: 400px;
+    height: 200px;
+    background: #fef4eb;
+    border: 1px solid #ff6600;
+    margin: 10px auto;
+}
+.box input{
+    background: #ff6600;
+    color: white;
+    border:0;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 4px 0 0 4px;
+    cursor: pointer;
+    padding: 2px;
+}
+.box2{
+    width: 330px;
+    height: 100px;
+    background: #eff8ff;
+    border: 1px solid #0084ff;
+}

@@ -1,0 +1,42 @@
+.background_pop{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #808080;
+    opacity: 0.8;
+    display: none;
+}
+.pop{
+    width: 400px;
+    height: 200px;
+    border: 4px solid #ff9900;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background: white;
+    display: none;
+}
+.pop .pop_head{
+    height: 30px;
+    background: #ffcc00;
+    border-bottom: 4px solid #ff9900;
+    text-align: right;
+    line-height: 30px;
+}
+.pop .pop_head input{
+    width: 16px;
+    height: 16px;
+    border: 1px solid #ff9900;
+    color: #ff9900;
+    background: white;
+    margin-right: 5px;
+}
+.pop_button{
+    width: 100px;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+.pop_button input{
+    width: 70px;
+    height: 24px;
+}

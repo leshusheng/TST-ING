@@ -1,0 +1,29 @@
+.box{
+    width: 200px;
+    height: 500px;
+    border: 2px solid #666666;
+    margin: 10px auto;
+    border-radius: 6px;
+    font-size: 20px;
+    /*text-align: center;*/
+}
+.box ul{
+    margin-left: 10px;
+}
+.heng{
+    width: 130px;
+    border-bottom: 2px solid #666666;
+    /*margin: 0 auto;*/
+}
+.box li{
+    margin-top: 15px;
+}
+.box li input{
+    margin-right: 10px;
+}
+/*.box .menu span{*/
+    /*margin-left: 10px;*/
+/*}*/
+.pop{
+    text-align: center;
+}

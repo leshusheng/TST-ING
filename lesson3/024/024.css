@@ -1,0 +1,14 @@
+.box{
+    width: 200px;
+    margin: 10px auto;
+}
+.box input[type='number']{
+    width: 58px;
+    height: 24px;
+    background: #f0f0f0;
+    border: 1px solid #cccccc;
+}
+.box input[type='button']{
+    width: 100px;
+    height: 24px;
+}

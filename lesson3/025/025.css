@@ -1,0 +1,46 @@
+.box{
+    width: 300px;
+    height: 500px;
+    margin: 10px auto;
+}
+.box .head{
+    height: 10px;
+    background: black;
+}
+.box .content_d{
+    height: 50px;
+    background: #d5d9b8;
+}
+.box .content{
+    text-align: right;
+    line-height: 50px;
+    font-size: 24px;
+    margin-right: 15px;
+}
+.box .input_menu{
+    height: 264px;
+    color: white;
+    background: #424242;
+    padding: 0 0 0 14px;
+}
+.box .input_menu li{
+    float: left;
+    width: 60px;
+    height: 40px;
+    background: #91837b;
+    border-radius: 6px;
+    text-align: center;
+    line-height: 40px;
+    margin: 10px 10px 0 0;
+    cursor: pointer;
+}
+.box .input_menu .height{
+    height: 90px;
+    line-height: 90px;
+}
+.box .input_menu .width{
+    width: 130px;
+}
+.box .input_menu .top{
+    margin-top: -39px;
+}

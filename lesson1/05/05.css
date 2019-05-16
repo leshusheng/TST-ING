@@ -1,0 +1,15 @@
+.box{
+    width: 150px;
+    height: 150px;
+    border: 10px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    background: black;
+    color: white;
+    font-size: 10px;
+}
+.box:hover{
+    border-color: red;
+    background: #f0f0f0;
+    color: red;
+}

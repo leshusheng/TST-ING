@@ -1,0 +1,28 @@
+*{
+    color: white;
+}
+.menu{
+    width: 350px;
+    margin: 10px auto;
+    padding: 5px;
+    border: 15px solid #eeeeee;
+    border-radius: 10px;
+}
+.menu dt{
+    font-size: 15px;
+    background: #99cc00;
+    line-height: 30px;
+    cursor: pointer;
+}
+.menu dd{
+    font-size: 10px;
+    background: #77ccff;
+    line-height: 25px;
+}
+.menu dt,.menu dd{
+    margin-bottom: 1px;
+    padding-left: 10px;
+}
+a:hover{
+    border-bottom: 1px solid #ffffff;
+}

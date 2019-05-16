@@ -1,0 +1,23 @@
+.box{
+    width: 400px;
+    margin: 10px auto;
+}
+.star,.pop{
+    display: inline-block;
+    vertical-align: top;
+}
+.box .pop li{
+    background: url("img/star.png") no-repeat;
+    width: 24px;
+    height: 30px;
+    float: left;
+    position: relative;
+}
+.box .pop li em{
+    background: url("img/icon.gif");
+    width: 179px;
+    height: 67px;
+    margin: 20px 0 0 -80px;
+    position: absolute;
+    display: none;
+}

@@ -1,0 +1,19 @@
+.box{
+    width: 300px;
+    background: black;
+    margin: 10px auto;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    padding: 20px 0;
+}
+.box span{
+    width: 50px;
+    height: 24px;
+    background: #cccccc;
+    border: 1px solid white;
+    margin-right: 4px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}

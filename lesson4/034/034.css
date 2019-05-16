@@ -1,0 +1,12 @@
+.box p{
+    color: green;
+    padding: 10px 15px;
+    font-size: 12px;
+    background: #f0f0f0;
+    border: 1px dotted #333333;
+    margin: 10px;
+    word-wrap: break-word;
+}
+.box input{
+    margin-left:10px;
+}

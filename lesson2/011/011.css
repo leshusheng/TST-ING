@@ -1,0 +1,22 @@
+.box{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 12px;
+}
+.box>p{
+    margin-top: 10px;
+}
+.box input{
+    height: 24px;
+    margin-right: 5px;
+}
+.box>.show{
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    background: black;
+    color: white;
+    line-height: 20px;
+    padding: 10px 5px;
+}

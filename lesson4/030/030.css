@@ -1,0 +1,32 @@
+body{
+    background: black;
+}
+.box{
+    width: 490px;
+    height: 170px;
+    border: 8px solid white;
+    border-radius: 4px;
+    margin: 10px auto;
+    position: relative;
+}
+.box .list li{
+    position: absolute;
+    top: 0;
+}
+.box .menu{
+    position: absolute;
+    right: 0;
+    bottom: 4px;
+}
+.box .menu li{
+    width: 20px;
+    height: 20px;
+    background: #f8b148;
+    border-radius: 10px;
+    margin-right: 6px;
+    text-align: center;
+    line-height: 20px;
+    float: left;
+    opacity: 0.8;
+    cursor: pointer;
+}

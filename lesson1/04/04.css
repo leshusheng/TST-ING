@@ -1,0 +1,19 @@
+.box{
+    width: 330px;
+    height: 400px;
+    margin: 10px auto;
+}
+input{
+    width: 130px;
+    height: 26px;
+    display: block;
+    text-align: center;
+    margin:5px auto;
+}
+.color_block>div{
+    margin:5px;
+    width: 100px;
+    height: 100px;
+    background: black;
+    float: left;
+}

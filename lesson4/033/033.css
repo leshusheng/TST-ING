@@ -1,0 +1,44 @@
+.box{
+    width: 400px;
+    height: 170px;
+    border: 2px solid #ff6600;
+    background: #fef4eb;
+    margin: 10px auto;
+    line-height: 32px;
+    font-size: 16px;
+}
+.box .form1 h2{
+    color: #fe791e;
+    background: #ffebd7;
+    border-bottom: 2px solid #ff6600;
+    padding-left: 10px;
+    font-size: 14px;
+}
+.box .form1 p{
+    margin-top: 10px;
+}
+.box .form1 p label{
+    display: inline-block;
+    text-align: right;
+    width: 100px;
+    height: 31px;
+}
+.box .form1 p input{
+    /*border-radius: 4px;*/
+    background: url("imgs/input.png");
+    border: 0;
+    width: 204px;
+    height: 31px;
+    padding-left: 4px;
+}
+.box .form1 button{
+    width: 104px;
+    height: 31px;
+    font-size: 16px;
+    background: #ff6600;
+    color: white;
+    border: 0;
+    border-radius: 6px;
+    margin-left: 100px;
+    cursor: pointer;
+}

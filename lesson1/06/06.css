@@ -1,0 +1,17 @@
+.box{
+    width: 200px;
+    margin:10px auto;
+    font-size: 12px;
+}
+label input{
+    vertical-align: middle;
+}
+.box .tips{
+    width: 194px;
+    height: 34px;
+    padding: 5px;
+    margin: 5px 0;
+    background: #ffefa4;
+    border: 1px solid red;
+    display: none;
+}

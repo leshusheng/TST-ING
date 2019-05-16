@@ -1,0 +1,38 @@
+.box{
+    width: 248px;
+    height: 248px;
+    margin: 10px auto;
+    background: #eaeaea;
+    padding: 0 0 10px 10px;
+}
+.box li{
+    width: 40px;
+    height: 40px;
+    float: left;
+    color: white;
+    background: #424242;
+    margin: 10px 10px 0 0;
+    padding: 5px;
+    border: 1px solid #424242 ;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: center;
+}
+.box>ul li strong{
+    font-size: 18px;
+    display: block;
+}
+.box .content{
+    width: 226px;
+    height: 46px;
+    margin: 10px 10px 0 0;
+    padding: 4px;
+    border: 1px solid white;
+    color: #424242;
+    font-size: 10px;
+}
+/*供js使用的*/
+.box>ul .li_menu{
+    background: #ffffff;
+    color: #ff6699;
+}

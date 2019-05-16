@@ -1,0 +1,44 @@
+.box{
+    width: 450px;
+    margin: 10px auto;
+    font-size: 12px;
+    border: 1px solid black;
+}
+.box .menu{
+    height: 32px;
+    color: white;
+    background: black;
+
+}
+.box .menu li{
+    width: 36px;
+    height: 31px;
+    float: left;
+    padding: 0 20px;
+    line-height: 30px;
+    cursor: pointer;
+}
+/*供js选择的css*/
+.menu_li_hover{
+    background: #cccccc;
+    color: black;
+    /*border-bottom: 1px solid;*/
+}
+/*供js选择的css*/
+.show{
+    display: block;
+}
+.pop{
+    padding-top: 10px;
+    height: 290px;
+}
+.pop ul{
+    width: 450px;
+    position: absolute;
+    display: none;
+}
+.pop li{
+    list-style: disc;
+    margin-left: 27px;
+    line-height: 28px;
+}
